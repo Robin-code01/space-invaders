@@ -1,0 +1,6 @@
+/*css universal script*/
+
+p {
+    padding: 1em 5em;
+    font: 8px sans-serif light-green;
+}
